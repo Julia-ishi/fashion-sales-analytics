@@ -40,3 +40,9 @@ fashion_sales_analytics/
 ├── graficar_productos.py
 ├── leer_productos.py
 └── README.md
+
+## Aplicación publicada
+
+Podés ver el dashboard online en:
+
+https://fashion-sales-analytics-julia.streamlit.app
