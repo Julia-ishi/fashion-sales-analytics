@@ -1,0 +1,9 @@
+id_producto,nombre,categoria,precio,stock_disponible,estado
+1,remera punk sex pistols,remera,15000,1,disponible
+2,remera NANA,remera,15000,0,sin stock
+3,top minato,top,14000,0,sin stock
+4,vestido aiko,vestido,10000,1,disponible
+5,top tomoko,top,12000,1,disponible
+6,falda misaki,falda,18000,1,disponible
+7,jean kieran,jean,22000,1,disponible
+8,gorro domo kun,gorro,9000,1,disponible
